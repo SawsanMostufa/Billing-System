@@ -1,0 +1,230 @@
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\bin\Debug\HotelLinq.exe.config
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\bin\Debug\HotelLinq.exe
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\bin\Debug\HotelLinq.pdb
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.csprojAssemblyReference.cache
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.exe
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.pdb
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.logChoose.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AdminLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigRoomType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.ComputerAssistantLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HouseKeeperLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.ManageLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.OfficeAssistantLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.ReceptionistLogIn.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddAmenities.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddFloor.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddRooms.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddRoomType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddRoomTypeNext.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigAmenities.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigFloorType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigRooms.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddHouseKeeping.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigHouseKeeping.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddCoupon.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddHall.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddHallType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletCoupon.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletHallType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletAmenities.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletFloor.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletHall.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletHouseKeeping.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletRoom.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletRoomType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditAmenitis.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditCoupon.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditeHall.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditFloor.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditHallType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditHouseKeeping.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditRoom.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditRoomType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigCoupon.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigHalls.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigHallsType.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigPaidServices.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HotelConfigPriceManager.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddPaidService.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddPrice.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletPaidService.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletPrice.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditePrice.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditPaidService.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.ManageAccount.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddDepartment.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddEmployee.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.AddHouseKeepingStatus.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletDepartment.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.DeletEmployee.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditDepartment.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.EditEmployee.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HouseKeeperProfile.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HRDepartments.resources
+H:\PROJECTS\PROJECT_5_HOTEL_LINQ\HotelLinq\HotelLinq\obj\Debug\HotelLinq.HRManagement.resources
+F:\New folder\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe.config
+F:\New folder\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe
+F:\New folder\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.pdb
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.AssemblyReference.cache
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.SuggestedBindingRedirects.cache
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddAmenities.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddCoupon.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddDepartment.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddEmployee.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddFloor.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddHall.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddHallType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddHouseKeepingStatus.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddPaidService.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddPrice.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddRooms.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddRoomType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddRoomTypeNext.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ComputerAssistantLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletCoupon.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletDepartment.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletEmployee.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditDepartment.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletHallType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletAmenities.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletFloor.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletHall.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletHouseKeeping.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletPaidService.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletPrice.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletRoom.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.DeletRoomType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditAmenitis.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditCoupon.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditeHall.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditEmployee.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditePrice.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditFloor.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditHallType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditHouseKeeping.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditPaidService.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditRoom.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.EditRoomType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigAmenities.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigCoupon.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigFloorType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigHalls.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigHallsType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigHouseKeeping.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigPaidServices.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigPriceManager.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigRooms.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HouseKeeperLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AddHouseKeeping.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HouseKeeperProfile.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HRDepartments.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HRManagement.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.logChoose.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ManageAccount.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ManageLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.OfficeAssistantLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.HotelConfigRoomType.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReceptionistLogIn.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.exe
+F:\New folder\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.pdb
+D:\New folderproject\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe.config
+D:\New folderproject\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe
+D:\New folderproject\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.pdb
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.SuggestedBindingRedirects.cache
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.exe
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.pdb
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.AssemblyReference.cache
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminLoginForm.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.BuyProductsnn.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReportFRM.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.customerForm.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.BuyProducts.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.buyproduct.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.SuplierForm.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.addstorefrm.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.contAdminfrm.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ResetPassword.resources
+D:\New folderproject\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReportSell.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe.config
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.pdb
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.AssemblyReference.cache
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.SuggestedBindingRedirects.cache
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminLoginForm.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReportFRM.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.customerForm.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.BuyProducts.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.SuplierForm.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.addstorefrm.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.contAdminfrm.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.exe
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.pdb
+D:\اخر نسخه الساعه 4 وربع من المشروع\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.sellbill.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe.config
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.pdb
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.AssemblyReference.cache
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.SuggestedBindingRedirects.cache
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminLoginForm.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReportFRM.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.customerForm.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.BuyProducts.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.sellbill.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.SuplierForm.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.addstorefrm.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.contAdminfrm.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.exe
+D:\intake 41 iti 9 month\projects\aya , fatma, eman, hanan, sawsan\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.pdb
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe.config
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.exe
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\bin\Debug\HotelLinq.pdb
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.AssemblyReference.cache
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminLoginForm.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.AdminManagement.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Form1.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.ReportFRM.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.customerForm.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.BuyProducts.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.sellbill.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.SuplierForm.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.addstorefrm.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.contAdminfrm.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.Properties.Resources.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.welcom2.resources
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.GenerateResource.cache
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.csproj.CoreCompileInputs.cache
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.exe
+C:\Users\c2du\Desktop\fashionStore\HotelLinq2\HotelLinq\obj\Debug\HotelLinq.pdb
